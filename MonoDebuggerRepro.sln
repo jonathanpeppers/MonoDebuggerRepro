@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34607.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoDebuggerRepro", "MonoDebuggerRepro\MonoDebuggerRepro.csproj", "{F93CA360-4AB3-4E2B-929C-7056B1D440AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F93CA360-4AB3-4E2B-929C-7056B1D440AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93CA360-4AB3-4E2B-929C-7056B1D440AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93CA360-4AB3-4E2B-929C-7056B1D440AA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F93CA360-4AB3-4E2B-929C-7056B1D440AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93CA360-4AB3-4E2B-929C-7056B1D440AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F93CA360-4AB3-4E2B-929C-7056B1D440AA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B103C9D-D487-477F-843C-592988F50236}
+	EndGlobalSection
+EndGlobal
