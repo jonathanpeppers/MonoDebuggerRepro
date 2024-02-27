@@ -15,7 +15,7 @@
 
             <Label
                 Text="Hello, World!"
-                Style="{StaticResource Headline}"
+                Style="{StaticResource DoesNotExist}"
                 SemanticProperties.HeadingLevel="Level1" />
 
             <Label
